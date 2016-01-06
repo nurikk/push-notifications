@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "short_name": "Push notification",
+  "name": "Push notification",
+  "start_url": "/",
+  "display": "standalone",
+  "launch_path": "/index.html",
+  "description": "A demo of the SW push-notification.js",
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {},
+  "gcm_sender_id": "718271947574",
+  "gcm_user_visible_only": true
+}

@@ -1,0 +1,23 @@
+{
+  "name": "push-notifications",
+  "version": "1.0.0",
+  "description": "Simple working push notification example",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nurikk/push-notifications.git"
+  },
+  "keywords": [
+  ],
+  "bugs": {
+    "url": "https://github.com/nurikk/push-notifications/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.12.0",
+    "express": "^4.10.7",
+    "cookie-parser": "^1.4.0",
+    "request": "^2.67.0"
+  }
+}
