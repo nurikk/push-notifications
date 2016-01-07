@@ -1,4 +1,7 @@
 Really working chrome web push notifications example
+
+*Important note: push-notification-sw.js had to be in root app folder*
+
 ======
 ### Installation
 `npm install`
